@@ -11,7 +11,37 @@ h1  {
   color: White;
 }
 
+h2  {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+h3  {
+  font-size: 21px;
+  font-weight: 300;
+  color: grey;
+}
+
+img {
+  margin: 0 auto;
+}
+
+i {
+  color: grey;
+}
+
+.icon {
+  margin-top: 30px;
+}
+
 .download-link {
   font-size: 16px;
   color: Aquamarine;
+}
+
+.footer {
+  color: grey;
+  text-align: right;
+  margin-right: 30px;
 }
