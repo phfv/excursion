@@ -29,6 +29,12 @@ img {
 
 i {
   color: grey;
+  display: inline;
+}
+
+footer  {
+  text-align: right;
+
 }
 
 .icon {
@@ -38,10 +44,4 @@ i {
 .download-link {
   font-size: 16px;
   color: Aquamarine;
-}
-
-.footer {
-  color: grey;
-  text-align: right;
-  margin-right: 30px;
 }
